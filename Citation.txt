@@ -1,0 +1,5 @@
+******* Citation Information *****************************
+If you find the software QSDPNAL
+useful, please cite it in you publication as follows:
+
+Xudong Li, Defeng Sun, and Kim-Chuan Toh, QSDPNAL: A two-phase augmented Lagrangian method for convex quadratic semidefinite programming, Mathematical Programming Computation, 10 (2018), pp. 703–743.

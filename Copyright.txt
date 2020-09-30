@@ -1,0 +1,17 @@
+
+QSDPNAL version 0.1: 
+A MATLAB software for convex quadratic semidefinite programming 
+with inequality, equality and bound constraints
+
+Copyright (c) 2020 by
+Xudong Li, Defeng Sun, and Kim-Chuan Toh 
+
+The software QSDPNAL is a research software. It is not 
+intended nor designed to be a general purpose software 
+at the moment. For commercial applications，please 
+contact the authors to discuss alternatives.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  
+
