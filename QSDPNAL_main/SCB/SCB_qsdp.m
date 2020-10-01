@@ -237,8 +237,8 @@
         fprintf('\n ******************************************************');
         fprintf('*******************************************\n');
         if printminoryes
-            fprintf('\n n = %3.0f, mE = %3.0f',n, nE);
-            if existB; fprintf( ' mI = %3.0d', nI); end
+            fprintf('\n n = %3.0f, mE = %3.0f, mI = %3.0f',n, nE, nI);
+            %if existB; fprintf( ' mI = %3.0d', nI); end
             fprintf('\n scale_data = %2.0f', scale_data);
             fprintf('\n bscale = %3.2e, cscale = %3.2e', bscale, Cscale);
             fprintf('\n ---------------------------------------------------');
