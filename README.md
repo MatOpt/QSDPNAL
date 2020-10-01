@@ -15,8 +15,13 @@ This software is designed to solve convex quadratic SDP of the form:
 - **Important note**:  
   - The software is still under development. Thus it will invariably be buggy. We would appreciate your feedback and bugs’ report.
   - This is a research software. It is not intended nor designed to be a general purpose software at the moment.
-  - For commercial applications, please contact the authors to discuss alternatives.
+  
 -----
+
+### Copyright
+This version of QSDPNAL is distributed under the **3-Clause BSD license**. For commercial applications that may be incompatible with this license, please contact the authors to discuss alternatives.
+
+-----------
 
 ### Installation 
 
